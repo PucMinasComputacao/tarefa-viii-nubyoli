@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.info {
+    background-color: #e0e0e0;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+ul {
+    padding-left: 20px;
+}
+
+hr {
+    margin: 15px 0;
+    border: 1px solid #ddd;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #034e99;
+}
